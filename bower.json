@@ -1,0 +1,22 @@
+{
+  "name": "intro-class",
+  "authors": [
+    "FranciZ <franci@proxima.si>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "EaselJS": "easeljs#^0.8.2",
+    "gsap": "greensock#^1.18.2"
+  }
+}
